@@ -1,0 +1,4 @@
+- Purpose: Mail Intelligence Layer
+- Phase 0: Identity extraction only
+- No mail modification, read-only analysis
+- Example JSON output for identity mapping
